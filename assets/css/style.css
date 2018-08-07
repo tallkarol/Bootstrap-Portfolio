@@ -1,0 +1,9 @@
+
+
+/* embed Canvas-Regular Font */
+@font-face {
+    font-family: canvas-regular;
+    src: url("assets/fonts/canvas-regular.eot"); /* IE9 Compat */
+    src: url("assets/fonts/canvas-regular.woff") format("woff"), /* Modern Browser */
+         url("assets/fonts/canvas-regular.ttf") format("truetype"), /* Safari, Android, iOS Legacy */
+}
